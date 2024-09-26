@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://richemetra.github.io/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/app/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/assets/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/css/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/data/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/includes/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/item/sitemap.richemetra.gz
+Sitemap: https://richemetra.github.io/src/sitemap.richemetra.gz
